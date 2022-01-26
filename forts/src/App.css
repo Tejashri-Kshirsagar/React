@@ -1,0 +1,19 @@
+.fort{
+    align-items: center;
+    padding: 50px;
+    background-color: bisque;
+    text-align: center;
+}
+
+.btn{
+  margin: 20px;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.btn:hover{
+  background-color: brown;
+  color: #fff;
+}
+

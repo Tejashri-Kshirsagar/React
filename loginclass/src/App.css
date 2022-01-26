@@ -1,0 +1,32 @@
+
+.box{
+    height: 400px;
+    width: 400px;
+    border: none;
+    margin: 100px 0px 0px 550px;
+    background-color: #57a9ec;
+    padding: 20px;
+  
+  }
+  
+  .box,h1{
+    color: #000;
+  }
+  
+  .btn{
+    height: 30px;
+    width: 100px;
+    background-color: #1050a3;
+    border-radius: 5px;
+    color: ivory;
+    margin-left: 130px;
+  }
+  
+  .btn:hover{
+    background-color: blue;
+  }
+
+  .error{
+    color: red;
+  }
+  

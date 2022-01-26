@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "D:\\React JS\\Javascript"
+		},
+		{
+			"path": "D:\\React JS\\HTML"
+		},
+		{
+			"path": "D:\\React JS\\css"
+		},
+		{
+			"path": "..\\..\\..\\Material UI"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "React"
+	}
+}

@@ -1,0 +1,26 @@
+.box{
+    height: 400px;
+    width: 400px;
+    border: none;
+    margin: 100px 0px 0px 550px;
+    background-color: cornflowerblue;
+    padding: 20px;
+
+}
+
+.box,h1{
+    color: indigo;
+}
+
+.btn{
+    height: 30px;
+    width: 100px;
+    background-color: indigo;
+    border-radius: 5px;
+    color: ivory;
+    margin-left: 130px;
+}
+
+.btn:hover{
+    background-color: blue;
+}

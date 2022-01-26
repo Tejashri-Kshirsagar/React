@@ -1,0 +1,18 @@
+.btn{
+    background-color: #4272f8;
+    height: 35px;
+    width: 100px;
+    border-radius: 15px;
+    color: #fff;
+
+}
+
+.btn:hover{
+    background-color: #ebbb7d;
+    color: #000;
+}
+
+.container{
+    text-align: center;
+    margin-top: 300px;
+}

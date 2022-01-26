@@ -1,0 +1,40 @@
+.btn{
+    text-align: center;
+    color: #fff;
+    background-color: #090931;
+    border-radius: 3px;
+    height: 50px;
+    width: 100px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.buttons{
+    margin: 20px 0 0 550px;
+}
+
+.box{
+    height: 400px;
+    width: 350px;
+    border: none;
+    border-radius: 3px;
+    margin: 150px 0 0 25px;
+    padding: 20px;
+    background-color: #090931;
+    font-size: 17px;
+    color: #fff;
+}
+
+.submit{
+    margin: 15px 0 0 130px;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: darkgrey;
+    color: #000;
+}
+
+.btn:hover{
+    background-color: darkgrey;
+    color: #000;
+}
